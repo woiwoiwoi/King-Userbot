@@ -1,6 +1,6 @@
 # Telegram App KEY and HASH this vars are important
 API_KEY = 
-API_HASH = 
+API_HASH = 2115901689:AAGayeDkRMNsZzl5fLo-aFxjcpWhsn6H2DA
 
 
 # Userbot Session String this var is important
